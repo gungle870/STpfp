@@ -1,0 +1,11 @@
+{
+    "display_name": "pfpTest",
+    "loading_order": 9,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "@gungle870",
+    "version": "1.0",
+    "homePage": "-"
+}
